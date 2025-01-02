@@ -1,6 +1,6 @@
 # 🛍️ Amazon Clone
 
-[!banner](public/banner,jpeg)
+![banner](public/banner.jpeg)
 
 A fully functional Amazon clone built with modern web technologies. This project is based on the tutorial by [CodeKing6](https://www.youtube.com/@BharatIntern) and includes features like user authentication, shopping cart, favorites, and Stripe payment integration.
 
